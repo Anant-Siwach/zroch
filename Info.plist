@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key><string>en</string>
+	<key>CFBundleDisplayName</key><string>Zroch</string>
+	<key>CFBundleExecutable</key><string>Zroch</string>
+	<key>CFBundleIconFile</key><string>AppIcon</string>
+	<key>CFBundleIdentifier</key><string>com.zroch.app</string>
+	<key>CFBundleInfoDictionaryVersion</key><string>6.0</string>
+	<key>CFBundleName</key><string>Zroch</string>
+	<key>CFBundlePackageType</key><string>APPL</string>
+	<key>CFBundleShortVersionString</key><string>1.0.0</string>
+	<key>CFBundleVersion</key><string>1</string>
+	<key>LSApplicationCategoryType</key><string>public.app-category.productivity</string>
+	<key>LSMinimumSystemVersion</key><string>14.0</string>
+	<key>LSUIElement</key><true/>
+	<key>NSHighResolutionCapable</key><true/>
+	<key>NSAppleEventsUsageDescription</key><string>Zroch controls Apple Music and Spotify to show what's playing in the notch.</string>
+	<key>NSCalendarsUsageDescription</key><string>Zroch shows your upcoming events on the Home tab.</string>
+	<key>NSCalendarsFullAccessUsageDescription</key><string>Zroch shows your upcoming events on the Home tab.</string>
+	<key>NSRemindersUsageDescription</key><string>Zroch shows and completes your reminders on the Home tab.</string>
+	<key>NSRemindersFullAccessUsageDescription</key><string>Zroch shows and completes your reminders on the Home tab.</string>
+	<key>NSCameraUsageDescription</key><string>Zroch shows a camera mirror preview in the notch.</string>
+	<key>NSLocationUsageDescription</key><string>Zroch uses your location to show local weather.</string>
+	<key>NSLocationWhenInUseUsageDescription</key><string>Zroch uses your location to show local weather.</string>
+</dict>
+</plist>
